@@ -1,4 +1,4 @@
-# PROJ-SP-5
+# Car Sales Dashboard
 
 #URL
 https://proj-sp-5.onrender.com/
@@ -14,4 +14,5 @@ O objetivo do app é **analisar dados de anúncios de veículos** a partir de um
 ## PRÉ-REQUISITOS
 Versão Python 3.11
 Bibliotecas: `streamlit`, `pandas`, `plotly_express`
+
 
